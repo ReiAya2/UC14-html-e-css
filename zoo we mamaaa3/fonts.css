@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Mountains+of+Christmas:wght@400;700&display=swap');
+
+
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Eater", serif; color: goldenrod;
+}
+
+p {
+    font-family: "Eater", serif; color: goldenrod;
+
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.paragrafo {
+      font-family: "Mountains of Christmas", serif;
+      color: #880808;
+      font-size: 300px;
+}
+
+img {
+display: block; width:400px
+
+}

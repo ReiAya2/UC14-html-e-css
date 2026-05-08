@@ -1,0 +1,26 @@
+body{
+text-align: center;
+background-color: blanchedalmond;
+}
+
+
+h2{
+color: blue;
+}
+
+form{
+background-color: wheat;
+padding: 30px;
+margin: 50px;
+border-radius: 6px;
+box-shadow: 0 4px 10px
+wheat
+}
+
+
+input{
+padding: 10px;
+margin: 10px 0;
+width: 100%;
+
+}
