@@ -1,0 +1,34 @@
+#titulo-clinica{
+text-align: center;
+font-size: 30px;
+color: #ADD8E6;
+
+background-color:white
+}
+
+
+
+
+#aviso{
+
+color: crimson;
+
+
+font-size: 30px;
+}
+
+
+.medico{   
+
+
+ background-color: #ADD8E6;
+}
+
+
+#patapim{
+
+
+    background-color: greenyellow;
+    color: goldenrod;
+}
+
