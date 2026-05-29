@@ -1,0 +1,96 @@
+:root {
+    --cor-primaria:gold;
+    --cor-secundaria:black;
+    --cor-fundo:gold;
+    --cor-texto:gold:var(--cor-secundaria);
+    
+    --fonte-principal:"Turret Road", sans-serif;
+    --borda-radius:10px;
+    --sombra: 0 4px 10px rgba(0,0,0,0.1)
+}
+body{
+
+    margin: var() ;
+    padding: ;
+    font-family: var(--fonte-principal) ;
+    background-color:var(--cor-secundaria)
+
+
+    display: ;
+    justify-content: ;
+    align-items: ;
+    height: ;
+
+
+
+}
+
+
+.fuck{
+background-color: var(--cor-secundaria);
+padding: 30px;
+border-radius: var(--borda-radius);
+box-shadow:var() ;
+text-align: ;
+width: ;
+}
+
+
+h1{
+    color: var(--cor-primaria);
+    font-family:  "Turret Road", sans-serif;
+
+    text-align: center;
+}
+
+
+h2{
+ color: var(--cor-primaria);
+font-family:  "Turret Road", sans-serif;;
+
+}
+
+
+
+button{
+
+background-color: var(--cor-primaria);
+color:white ;
+border:none ;
+padding:10 px 20px ;
+border-radius:var(--borda-radius) ;
+cursor: pointer;
+
+}
+
+
+
+
+
+
+
+button:hover{
+
+    background-color: var(--cor-secundaria =);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
